@@ -1,6 +1,6 @@
 {
     "input": {
-        "prompt": "John Doe",
+        "instruction": "create a image",
         "seconds": 15
     }
 }
