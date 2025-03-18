@@ -1,5 +1,5 @@
 import runpod
-import transformers
+pip install transformers
 from transformers import pipeline
 
 # Function to load the sentiment analysis model
